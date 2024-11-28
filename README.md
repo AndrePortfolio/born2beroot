@@ -39,6 +39,3 @@ Born2beRoot is an in-depth exercise that teaches virtualization by guiding you t
 
 ## Submission Requirements
 Submit a `signature.txt` containing the signature of your virtual disk. Detailed submission and peer-evaluation guidelines are available in the project documentation. 📝
-
-## Note
-This README outlines a work-in-progress. Further implementation is underway to perfect all configurations and features. 🔧✨
