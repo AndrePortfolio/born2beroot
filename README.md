@@ -4,8 +4,7 @@
 This project is a system administration exercise that introduces virtualization and server setup using tools like VirtualBox or UTM. It requires creating a virtual machine, configuring essential server settings, and ensuring security through strict rules. 🖥️🔒
 
 ## Project Details
-- **Version**: 3.2
-- **Skills Gained**: Virtualization, server configuration, password policy setup, service management, and scripting. 🛠️
+**Skills Gained**: Virtualization, server configuration, password policy setup, service management, and scripting. 🛠️
 
 ## Description
 Born2beRoot is an in-depth exercise that teaches virtualization by guiding you to build a server environment from scratch. You’ll work with either Debian or Rocky Linux to:
